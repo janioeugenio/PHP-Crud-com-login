@@ -2,7 +2,9 @@
  Um crud em PHP e bootstrap com validação de login
 
 Para a utilização inicial use o banco da seguinte forma:
+
 Nome do banco: crud
+
 Tabelas:
 
     produtos
@@ -26,6 +28,7 @@ Tabelas:
 Como estamos usando o password_hash e password_verify o hash da senha de usuário padrão é: $2y$10$iBjo4P5chh.XGlBi2a7AkuBya4vBFOnEydIce/zpsclcR/YLbRYPO = admin
 
 login: admin@admin.com
+
 senha: admin
 
 Para criar o banco direto use o SQL abaixo:
