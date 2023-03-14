@@ -22,7 +22,7 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <link href="css/index.css" rel="stylesheet">
   <link href="css/grafico.css" rel="stylesheet">
-  <link rel="shortcut icon" href="img/icon.png">
+  <link rel="shortcut icon" href="img/logo.png">
 
   <link rel="stylesheet" type="text/css" href="https://github.s3.amazonaws.com/downloads/lafeber/world-flags-sprite/flags32.css" />
 
